@@ -32,8 +32,8 @@ function handleForm(){
                             />
                         </div>
                         <div className=" mt-sm-3 mt-md-0 mx-sm-1 d-md-flex  justify-content-evenly mx-5">
-                            <button className="btn btn-outline-info"> <i className="bi bi-person-circle " onClick={handleForm}></i></button>
-                            <button className="btn btn-outline-info mx-2" onClick={handleExit}><i className="bi bi-box-arrow-right me-2 mx-3" ></i></button>
+                            <button className="mt-3 mt-md-0 btn btn-outline-info"> <i className="bi bi-person-circle " onClick={handleForm}></i></button>
+                            <button className=" mt-3 mt-md-0 btn btn-outline-info mx-2" onClick={handleExit}><i className="bi bi-box-arrow-right me-2 mx-3" ></i></button>
                         </div>
                     </div>
 
